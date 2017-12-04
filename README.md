@@ -19,3 +19,13 @@ A blockchain in 200 lines of code : https://medium.com/@lhartikk/a-blockchain-in
 ### Ethereum
 
 ### ICO
+
+### BlockChain News
+- http://deepblock.pagedemo.co/
+
+### TODO
+- [ ] 각 거래소별 실시간 코인 현황 출력
+- [ ] 코인과 관련된 뉴스 크롤링
+- [ ] RNN
+- [ ] 피드 API, ReactNative App
+- [ ] 간단한 채팅
